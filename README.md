@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-
+![Pixel](pixel.PNG)
 ## Table of Contents
 
 * [Instructions](#instructions)
